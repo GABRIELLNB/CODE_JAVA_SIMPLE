@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Code_Vendedor {
     public static void main(String[] args) {
         Scanner scanI = new Scanner(System.in);
         Scanner OP0 = new Scanner(System.in);
